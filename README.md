@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @rajinlalc07
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @rajinlalc07 
+- 👀 I’m interested in Itfield
+- 🌱 I’m currently learning flutter
+- 💞️ I’m looking to collaborate on building flutter apps
+- 📫 How to reach me Rajinlalofficial@gmail.com
 
 <!---
 rajinlalc07/rajinlalc07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
